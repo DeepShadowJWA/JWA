@@ -1,5 +1,8 @@
 close all; 
 
+% "2022-10-30 11.39.25 top20.csv" is the name of the file to be analysed
+% topNN should be changed in the last two lines too to match the actual number of players 
+
 H = readtable ('2022-10-30 11.39.25 top20.csv',"VariableNamingRule","preserve"); 
 H = sortrows(H,'Dino','ascend');
 
