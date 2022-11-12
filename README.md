@@ -2,4 +2,7 @@
 
 
 Data collected through [Lullatsch's JWA Protocol Decoder](https://github.com/Lullatsch/JWA-Protocol-Decoder).
-Use at your own risk. No support. 
+
+**Use at your own risk. No support.** 
+
+Detailed instructions inside each file. Example data provided. 
